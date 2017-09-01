@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: chartreuse;
+     font-family: monospace;
+    font-size: 40px;
+}
+
+h3 {
+    color: chartreuse;
+     font-family: serif;
+}
+
+p {
+    color: bisque;
+    font-family: serif;
+    font-size: 16px;
+}
+
+a {
+    color: red;
+    font-family: monospace;
+    font-size: 20px;
+}

@@ -5,6 +5,11 @@ body{
   background-color:#f4f4f4;
 }
 
+a {
+    text-decoration: inherit;
+    color: darkgray;
+    font-size: 105%;
+}
 /* Global */
 .container{
   width:80%;
